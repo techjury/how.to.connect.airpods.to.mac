@@ -1,6 +1,6 @@
 # how to connect airpods to mac
 
-[![how to connect airpods to mac](gett-stateed.png)](https://computersolve.com/how-to-connect-airpods-to-mac/)
+[![how to connect airpods to mac](gett-stateed.png)](https://icncomputer.com/how-to-connect-airpods-to-mac/)
 
 Before you go on to syncing AirPods to your Mac, you must keep in mind that different AirPods are compatible with different Mac versions:
 
